@@ -1,0 +1,22 @@
+Keyboard Shortcuts Only
+Objective: Create a text file, copy it, rename the copied file and delete the original without using a mouse.
+
+Follow these steps:
+Step	Shortcut	                                                                   What happened
+1	Windows + R	                                           Opened Run dialog box.
+2	Type notepad + Enter                                             Opened Notepad.
+3	Type your name and class	                     Entered personal information.
+4	Ctrl + Shift + S	                                             Opened Save As window.
+5	Type original.txt and save in MyWork	Saved the original file.
+6	Windows + E	                                                 Opened File Explorer.
+7	Ctrl + L	                                                                       Selected the address bar.
+8	Type MyWork folder path + Enter	Opened MyWork folder.
+9	Select file + Ctrl + C	                                                    Copied the original file.
+10	Open another folder + Ctrl + V	                              Pasted the copied file.
+11	F2	                                                                             Renamed the copied file to backup.txt.
+12	Return to MyWork and select original file.	     Selected the original file.
+13	Delete + Enter	                                                       Deleted the original file.
+
+Expected result
+- Original file: Deleted.
+- Copied file: backup.txt remains in the other folder.

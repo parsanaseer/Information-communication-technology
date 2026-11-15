@@ -1,0 +1,28 @@
+
+MY SYSTEM REPORT
+
+Student Name: __PARSA NASEER________
+
+Class: ____SOFT_WARE ENGINEERING_
+
+Roll Number: _____26-SE-30________
+
+Computer Information
+1. Web Browser Name: _____GOOGLE CHROME_____
+2. Browser Version: ______Version 157.0.8103.51 (Official Build) (64-bit)____
+3. Windows Version: ________	OS Build	19045.780722H2__
+4. Windows Edition: __________Windows 10 Pro
+5. Processor Name: _____Processor	Intel(R) Core(TM) i5-4310U CPU @ 2.00GHz   2.60 GHz_____
+6. RAM Size: __________4.00 GB
+7. Total Storage: __________466 GB HDD ST500LM000-1EJ162
+
+
+Device Name	DESKTOP-TMI87MC
+Processor	Intel(R) Core(TM) i5-4310U CPU @ 2.00GHz   2.60 GHz
+Installed RAM	4.00 GB
+Storage	466 GB HDD ST500LM000-1EJ162
+Graphics Card	Intel(R) HD Graphics Family (113 MB)
+Device ID	64620994-6B6B-4380-B16B-C06EB1C42D0B
+Product ID	00330-50000-00000-AAOEM
+System Type	64-bit operating system, x64-based processor
+Pen and touch	No pen or touch input is available for this display

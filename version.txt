@@ -1,0 +1,14 @@
+
+This PC:
+TOTAL STORAGE:
+Installed RAM:  4.00GB.  (DDR3)
+PROCESSOR:2.60Ghz
+GRAPHIC CARD:113MB
+STORAGE:466GB
+
+PARTITION OF DRIVES: 
+Local Disk (C:)334GB
+DVD RW Drive(D:)
+New Volume (E:)58.5GB
+Local DISK (G:)48.8GB
+Cracking Disk (C:)22.9GB

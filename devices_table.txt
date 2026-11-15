@@ -1,0 +1,19 @@
+Example of input,output and storage devices:
+
+            
+         INPUT DEVICES                                                                                              OUTPUT DEVICES                                                                           STORAGE DEVICES       
+>>Keyboard:  used to type letter and numbers.                             >>Monitor:  displays text,pictures and videos.                    >>USB: store and transfer data.
+                          (Wired)                                                                                                             ( Wired)                                                                                              (Wired)
+
+>> Mouse:      used to point and click on screen.                            >>Printer:  print documents on paper.                                      >>HardDisk: Store large amount of
+                          (Wired)                                                                                                          (Wireless)                                                                                     data. (Wired)
+  
+>>Scanner:   used to scan document and pictures.                     >>Speaker: produce sound and audio.                                      >>MemoryCard:store photo and video.
+                          (Wired,Wireless)                                                                                 (Wired)                                                                                                            ( Wired)
+
+>>Webcam:    used to capture picture and videos.                       >>headphone: used to listen to audio privately.                >>Exernal SSD:store data with high 
+                           (Wired,wireless)                                                                               ( Wireless)                                                                                          speed.  (Wired)
+
+>>Microphone:  used to record voice and sound.                         >>Projector:  displays images on a large screen.               >>NAS storage: store and share data.
+                          (Wired,Wireless)                                                                              (Wired)                                                                                                                 (Wireless)
+   
